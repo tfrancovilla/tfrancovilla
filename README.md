@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning GitHub.
 - 🔭 I’m currently working on Home Assistant and building out my homelab.
-- 📫 How to reach me: https://www.linkedin.com/in/tfrancov/
-- 
+- 📫 How to reach me: https://www.linkedin.com/in/tfrancov/ 
+- 📫 How to reach me: https://coreweave.enterprise.slack.com/team/U08FLQ7SKK5
